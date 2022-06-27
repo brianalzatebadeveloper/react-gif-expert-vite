@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas del componente <GifItem /> debe hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Can You Smell The Rock GIF by WWE"
+      src="https://media4.giphy.com/media/l0HUg6Ypas42ubkXu/giphy.gif?cid=0858df19h0fqpsnq8bllqgb7kq216cdk3hhg8dv7ah5vgkmb&rid=giphy.gif&ct=g"
+    />
+    <p>
+      Can You Smell The Rock GIF by WWE
+    </p>
+  </div>
+</div>
+`;
